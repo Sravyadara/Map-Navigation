@@ -4,7 +4,9 @@ This Application takes the from address and to address from the user and plots t
 
 ![1.png](https://github.com/Sravyadara/Map-Navigation/blob/master/Screenshots/Screen%20Shot%202015-11-24%20at%209.00.28%20PM.png)
 
-![2.png](https://github.com/Sravyadara/Map-Navigation/blob/master/Screenshots/Screen%20Shot%202015-11-24%20at%209.00.00%20PM.png)
+![2.png](https://github.com/Sravyadara/Map-Navigation/blob/master/Screenshots/Screen%20Shot%202015-11-24%20at%209.00.48%20PM.png)
 
-![3.png](https://github.com/Sravyadara/Map-Navigation/blob/master/Screenshots/Screen%20Shot%202015-11-24%20at%209.00.48%20PM.png)
+
+![3.png](https://github.com/Sravyadara/Map-Navigation/blob/master/Screenshots/Screen%20Shot%202015-11-24%20at%209.00.00%20PM.png)
+
 
